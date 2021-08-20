@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Y2Geek
-- 👀 I’m interested in developing Python programs and scripts
-- 🌱 I’m currently learning Python3
+- 👀 I’m interested in C#
+- 🌱 I’m currently learning Python3 and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
